@@ -1,11 +1,11 @@
 ##########################################################
-TeslaCrack - decrypt files crypted by TeslaCrypt ransomware
+TeslaKeyMaker - decrypt files crypted by TeslaCrypt ransomware
 ##########################################################
-|pypi-ver| |flattr-donate| |btc-donate|
-
-:Date:        2016-01-22
-:Source:      https://github.com/Googulator/TeslaCrack
-:Author:      Googulator
+ 
+:Full Name:   Tesla Key Maker
+:Version:     1.0.0
+:Source:      https://github.com/TnTexplode/TeslaKeyMaker
+:Author:      TnTexplode | Googulator
 
 
 This is a tool for decrypting files that were crypted with the latest version
