@@ -1,3 +1,6 @@
+#What this folder is for
+This folder includes TeslaCrypt files so that the program can decode them
+
 ## How to create long dir/files:
 
 mkdir -p '1! dirname_300_chars-made_mul_6_x_this_section(50)/2! dirname_300_chars-made_mul_6_x_this_section(50)/3! long_dir dirname_300_chars-made_mul_6_x_this_section(50)'
